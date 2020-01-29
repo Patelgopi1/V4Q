@@ -1,6 +1,6 @@
 Version: 0.2
-My name is: gopi patel
-I like Git! false
+My name is: Gopi Patel
+I like Git! False
  
 
 
