@@ -1,3 +1,0 @@
-Hostname : Dark knight 5G
-
-ip address : 192.168.0.16
